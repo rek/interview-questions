@@ -1,4 +1,4 @@
-## Interview questions:
+## 1. Interview questions:
 
 ### Why did you apply?
 
@@ -16,7 +16,7 @@
 
 ### Have you got any questions?
 
-## Less awesome questions if you run out of stuff to say:
+## 2. Less awesome questions if you run out of stuff to say:
 
 ### What are your strengths?
 
