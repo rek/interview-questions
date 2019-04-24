@@ -1,16 +1,26 @@
 ## Interview questions:
 
-### How did you hear about us?
-
 ### Why did you apply?
+
+### What have you been doing to keep learning? (sites/methods etc)
+
+### What OS do you use?
+
+### Where do you live?
+
+### What is your current salary? (normally they say 20%+ higher)
+
+### Are you married/have kids?
+
+### What transport do you have?
+
+### Have you got any questions?
+
+## Less awesome questions if you run out of stuff to say:
 
 ### What are your strengths?
 
 ### Have you even worked with a remote team?
-
-### What have you been doing to keep learning? (sites/methods etc)
-
-### Have you got any questions?
 
 
 NOTES:
