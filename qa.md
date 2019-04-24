@@ -81,7 +81,16 @@ Negative testing is different from positive testing in a way that positive testi
 - YSlow for FireBug
 - Web Developer toolbar for firebox
 
-## What is Ad Hoc testing?
+## What is your regression testing model?
 
-It is a testing phase where the tester tries to break the system by randomly trying the system’s functionality.  It can include negative testing as well.
+## Explain your SLDC. Emphasise how QA fits into this?
+
+Eg: When is QA invloved?
+
+Get requirements from business.
+Give to team leaders.
+In team there is QA and devs, they break these down into stories.
+QA plans test cases.
+
+etc etc
 
